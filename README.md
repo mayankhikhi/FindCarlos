@@ -50,16 +50,16 @@ Here's an example of how level data is structured:
 ```json
 {
     "1": {
-        "image_url": "https://your-level-1-image.jpg",
-        "target_box": {"x1": 300, "y1": 450, "x2": 350, "y2": 480}
+        "image_url": "/static/1.jpg",
+        "target_box": {"x1": 887, "y1": 406, "x2": 1205, "y2": 567}
     },
     "2": {
-        "image_url": "https://your-level-2-image.jpg",
-        "target_box": {"x1": 800, "y1": 600, "x2": 850, "y2": 650}
+        "image_url": "/static/2.jpg",
+        "target_box": {"x1": 120, "y1": 505, "x2": 297, "y2": 583}
     },
     "3": {
-        "image_url": "https://your-level-3-image.jpg",
-        "target_box": {"x1": 100, "y1": 100, "x2": 150, "y2": 150}
+        "image_url": "/static/3.jpg",
+        "target_box": {"x1": 890, "y1": 419, "x2": 1148, "y2": 556}
     }
 }
 ```
